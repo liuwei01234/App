@@ -1,2 +1,2 @@
 # App
-个人uniApp开发
+基于uniApp开发的小应用
